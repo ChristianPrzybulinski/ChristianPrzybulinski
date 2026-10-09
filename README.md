@@ -14,7 +14,7 @@
 
 <p align="center">
   <img src="assets/hobby-anime.svg" alt="Isekai — watching anime and reading light novels." width="210">
-  <img src="assets/hobby-gaming.svg" alt="Video games — PC, Nintendo Switch 2 and PS5." width="210"><br>
+  <img src="assets/hobby-gaming.svg" alt="Video games — PC, Nintendo Switch 2 and PS5." width="210">
   <img src="assets/hobby-energy.svg" alt="Craft beer, coffee and music." width="210">
 </p>
 
