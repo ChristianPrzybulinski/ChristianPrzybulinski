@@ -10,9 +10,10 @@
 </p>
 
 <p align="center">
-  <img src="assets/hobby-anime.svg" alt="Anime — I enjoy watching anime." width="210">
-  <img src="assets/hobby-gaming.svg" alt="Video games — I enjoy playing video games." width="210">
+  <img src="assets/hobby-anime.svg" alt="Isekai — watching anime and reading light novels." width="210">
+  <img src="assets/hobby-gaming.svg" alt="Video games — PC, Nintendo Switch 2 and PS5." width="210"><br>
   <img src="assets/hobby-gamedev.svg" alt="Game creation — I enjoy making games." width="210">
+  <img src="assets/hobby-energy.svg" alt="Energy buff — craft beer, especially IPAs, with Lofi and game soundtrack playlists." width="210">
 </p>
 
 <p align="center">
