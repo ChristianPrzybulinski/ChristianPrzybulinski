@@ -4,8 +4,6 @@
 
 <h3 align="center">Ahoy.</h3>
 
-<p align="center">Making games, watching anime, playing video games.</p>
-
 <p align="center">
   <img src="assets/heading-hobbies.svg" alt="Beyond the code" width="480">
 </p>
@@ -42,12 +40,6 @@
   <img src="assets/icon-php.svg" alt="PHP" width="80">
   <img src="assets/icon-node.svg" alt="Node.js" width="80">
   <img src="assets/icon-bash.svg" alt="Bash" width="80">
-</p>
-
-<p align="center">
-  <sub>Backend: Java, Spring, Python, Go, PHP, Node.js<br>
-  Systems: C, C++ · Data: PL/SQL<br>
-  Games: Godot · Web: Angular · Shell: Bash</sub>
 </p>
 
 <p align="center">
