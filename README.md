@@ -2,8 +2,11 @@
   <img src="assets/banner.png" alt="Neferpitou in silhouette with crimson eyes beside a bonfire; the Knight stands on a distant bridge in misty gothic ruins. The edges fade into the page." width="960">
 </p>
 
-<h2 align="center">Christian Przybulinski</h2>
+<p align="center">
+  <img src="assets/name.svg" alt="Christian Przybulinski" width="680">
+</p>
 <h3 align="center">Ahoy.</h3>
+<p align="center"><sub>Welcome to my Lair</sub></p>
 
 <p align="center">
   <img src="assets/heading-hobbies.svg" alt="Beyond the code" width="480">
@@ -12,8 +15,7 @@
 <p align="center">
   <img src="assets/hobby-anime.svg" alt="Isekai — watching anime and reading light novels." width="210">
   <img src="assets/hobby-gaming.svg" alt="Video games — PC, Nintendo Switch 2 and PS5." width="210"><br>
-  <img src="assets/hobby-gamedev.svg" alt="Game creation — I enjoy making games." width="210">
-  <img src="assets/hobby-energy.svg" alt="Energy buff — craft beer, especially IPAs, with Lofi and game soundtrack playlists." width="210">
+  <img src="assets/hobby-energy.svg" alt="Craft beer, coffee and music." width="210">
 </p>
 
 <p align="center">
@@ -45,8 +47,9 @@
 </p>
 
 <p align="center">
-  <img src="assets/github-commits.svg" alt="897 indexed commits in 2026, including private repositories; snapshot October 8, 2026." width="230">
-  <img src="assets/github-prs.svg" alt="813 pull requests opened in 2026, including private repositories; snapshot October 8, 2026." width="230">
+  <img src="assets/github-commits.svg" alt="Indexed commits, refreshed automatically." width="230">
+  <img src="assets/github-prs.svg" alt="Pull requests opened, refreshed automatically." width="230">
+  <img src="assets/github-projects.svg" alt="Owned projects, excluding forks, refreshed automatically." width="230">
 </p>
 
-<p align="center"><sub>2026 · Including private work<br>GitHub search snapshot · October 8, 2026 · Manually updated</sub></p>
+<p align="center"><sub>GitHub activity · Including private work<br>Updated automatically by GitHub Actions</sub></p>
