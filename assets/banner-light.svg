@@ -1,51 +1,90 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="288" viewBox="0 0 320 96" role="img" aria-labelledby="title description" shape-rendering="crispEdges">
-<title id="title">A small world, ready for an adventure</title>
-<desc id="description">An original pixel-art landscape with layered mountains, a quiet lake, a warmly lit cabin and a traveler. Daylight colors.</desc>
-<rect width="320" height="96" fill="#d9edf0"/>
-<path d="M0 35H320V64H0Z" fill="#b8d8df"/>
-<path d="M273 8h12v3h3v12h-3v3h-12v-3h-3V11h3z" fill="#f0c987"/>
-<path d="M22 15h5v-3h14v3h5v4h-24z" fill="#f5f6e9"/>
-<path d="M121 10h5v-3h21v3h5v4h-31z" fill="#f5f6e9"/>
-<path d="M188 23h5v-3h9v3h5v4h-19z" fill="#f5f6e9"/>
-<path d="M0 47V37h12v-6h12v-7h12v6h10v6h15v8h16V32h11v-7h12V18h9v7h12v8h12v7h17V29h12v-9h10v-6h11v9h10v8h13v9h15v-7h14v-6h10v7h15v8h18v-7h10v-7h14v7h18v20H0Z" fill="#91b6c3"/>
-<path d="M0 51V43h16v-5h16v-5h14v7h12v6h18v5h28V40h14v-7h12v-5h10v7h11v7h15v6h17v-7h17v-6h13v7h16v7h23V39h17v-6h13v7h15v8h13V43h14v15H0Z" fill="#729aa9"/>
-<path d="M0 55H320V83H0Z" fill="#87bdc8"/>
-<path d="M2 60h18v1h-18z" fill="#c0e2df"/>
-<path d="M32 56h14v1h-14z" fill="#c0e2df"/>
-<path d="M65 62h28v1h-28z" fill="#c0e2df"/>
-<path d="M104 56h18v1h-18z" fill="#c0e2df"/>
-<path d="M124 68h25v1h-25z" fill="#c0e2df"/>
-<path d="M160 59h21v1h-21z" fill="#c0e2df"/>
-<path d="M185 64h9v1h-9z" fill="#c0e2df"/>
-<path d="M214 58h19v1h-19z" fill="#c0e2df"/>
-<path d="M278 61h23v1h-23z" fill="#c0e2df"/>
-<path d="M16 71h28v1h-28z" fill="#c0e2df"/>
-<path d="M84 74h19v1h-19z" fill="#c0e2df"/>
-<path d="M169 73h29v1h-29z" fill="#c0e2df"/>
-<path d="M283 71h19v1h-19z" fill="#c0e2df"/>
-<path d="M0 70h28v4h29v5h40v-3h31v4h32v-5h29v-6h29v-5h35v-4h34v3h33v33H0Z" fill="#77947b"/>
-<path d="M0 70h28v4h29v5h40v-3h31v4h32v-5h29v-6h29v-5h35v-4h34v3h33v2h-33v-3h-34v4h-35v5h-29v6h-29v5h-32v-4H97v3H57v-5H28v-4H0Z" fill="#b4c99b"/>
-<path d="M240 72h10v6h-16v5h-24v5h-24v8h-24v-8h25v-7h27v-5h26z" fill="#d3c4a2"/>
-<path d="M230 48h34v24h-34z" fill="#ead5ad"/>
-<path d="M224 48h4v-5h5v-5h5v-5h18v5h5v5h5v5h4v4h-46z" fill="#9f7584"/>
-<path d="M252 30h5v11h-5z" fill="#ead5ad"/>
-<path d="M240 58h8v14h-8zM254 57h7v8h-7zM231 57h5v8h-5z" fill="#283748"/>
-<path d="M255 58h5v6h-5zM232 58h3v6h-3zM241 59h6v11h-6z" fill="#ffd99c"/>
-<path d="M228 72h39v2h-39z" fill="#283748"/>
-<g transform="translate(4 57) scale(1.2)"><path d="M7 0h3v22H7z" fill="#283748"/><path d="M6 -13h5v5h4v5h3v5h-3v3h5v5H-2V5h5V2H0v-5h3v-5h3z" fill="#4d756e"/><path d="M6 -13h5v5H7v5H3v-5h3zM0 2h7v3H3v3h-5V5h2z" fill="#6d9580"/></g>
-<g transform="translate(24 66) scale(1)"><path d="M7 0h3v22H7z" fill="#283748"/><path d="M6 -13h5v5h4v5h3v5h-3v3h5v5H-2V5h5V2H0v-5h3v-5h3z" fill="#4d756e"/><path d="M6 -13h5v5H7v5H3v-5h3zM0 2h7v3H3v3h-5V5h2z" fill="#6d9580"/></g>
-<g transform="translate(52 73) scale(0.7)"><path d="M7 0h3v22H7z" fill="#283748"/><path d="M6 -13h5v5h4v5h3v5h-3v3h5v5H-2V5h5V2H0v-5h3v-5h3z" fill="#4d756e"/><path d="M6 -13h5v5H7v5H3v-5h3zM0 2h7v3H3v3h-5V5h2z" fill="#6d9580"/></g>
-<g transform="translate(297 59) scale(1.2)"><path d="M7 0h3v22H7z" fill="#283748"/><path d="M6 -13h5v5h4v5h3v5h-3v3h5v5H-2V5h5V2H0v-5h3v-5h3z" fill="#4d756e"/><path d="M6 -13h5v5H7v5H3v-5h3zM0 2h7v3H3v3h-5V5h2z" fill="#6d9580"/></g>
-<g transform="translate(281 67) scale(0.8)"><path d="M7 0h3v22H7z" fill="#283748"/><path d="M6 -13h5v5h4v5h3v5h-3v3h5v5H-2V5h5V2H0v-5h3v-5h3z" fill="#4d756e"/><path d="M6 -13h5v5H7v5H3v-5h3zM0 2h7v3H3v3h-5V5h2z" fill="#6d9580"/></g>
-<path d="M170 80h12v2h-12z" fill="#4d756e"/><path d="M173 76h3v5h-3zM178 76h3v5h-3z" fill="#283748"/><path d="M172 68h9v9h-9z" fill="#829cba"/><path d="M173 61h7v8h-7z" fill="#efc89e"/><path d="M172 61h8v3h-8zM172 64h3v2h-3z" fill="#393b50"/><path d="M171 68h11v3h-11zM168 70h5v3h-5z" fill="#d78a87"/>
-<path d="M75 87h2v-3h1v3h2v2h-5z" fill="#b4c99b"/>
-<path d="M111 85h2v-3h1v3h2v2h-5z" fill="#b4c99b"/>
-<path d="M205 78h2v-3h1v3h2v2h-5z" fill="#b4c99b"/>
-<path d="M264 86h2v-3h1v3h2v2h-5z" fill="#b4c99b"/>
-<path d="M33 88h2v-3h1v3h2v2h-5z" fill="#b4c99b"/>
-<path d="M304 83h2v-3h1v3h2v2h-5z" fill="#b4c99b"/>
-<path d="M89 88h2v2h-2z" fill="#ffd99c"/>
-<path d="M271 78h2v2h-2z" fill="#ffd99c"/>
-<path d="M61 89h2v2h-2z" fill="#ffd99c"/>
-<path d="M286 87h2v2h-2z" fill="#ffd99c"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="320" viewBox="0 0 960 320" role="img" aria-labelledby="title description">
+<title id="title">A quiet place between adventures</title>
+<desc id="description">Original illustrated fantasy ruins: a cloaked traveler and a lantern beneath vaulted arches, pale foliage, drifting mist and distant light. Silver mist palette.</desc>
+<defs>
+  <radialGradient id="atmosphere" cx="51%" cy="47%" r="67%"><stop stop-color="#dae8eb"/><stop offset="1" stop-color="#76909f"/></radialGradient>
+  <radialGradient id="mist"><stop stop-color="#f3f6ed" stop-opacity=".25"/><stop offset="1" stop-color="#f3f6ed" stop-opacity="0"/></radialGradient>
+  <radialGradient id="glow"><stop stop-color="#eef9e9" stop-opacity=".7"/><stop offset=".18" stop-color="#c5e4df" stop-opacity=".22"/><stop offset="1" stop-color="#c5e4df" stop-opacity="0"/></radialGradient>
+  <linearGradient id="depth" x2="0" y2="1"><stop stop-color="#688797"/><stop offset="1" stop-color="#597685"/></linearGradient>
+</defs>
+<path d="M0 0H960V320H0Z" fill="url(#atmosphere)"/>
+<ellipse cx="470" cy="145" rx="335" ry="220" fill="url(#mist)"/>
+<g fill="#a0b9c3" opacity=".24">
+<path d="M288 281V132Q288 69 355 24Q421 69 421 132V281H399V134Q399 82 355 50Q310 82 310 134V281Z"/>
+<path d="M496 284V155Q496 95 547 62Q598 95 598 155V284H585V156Q585 109 547 82Q509 109 509 156V284Z"/>
+<path d="M585 280V132Q585 69 652 24Q718 69 718 132V280H696V134Q696 82 652 50Q607 82 607 134V280Z"/>
+</g>
+<g stroke="#a0b9c3" fill="none" opacity=".24" stroke-width="2">
+<path d="M355 50V273M547 82V280M652 50V275M313 137Q355 105 396 137M608 137Q652 105 693 137"/>
+<path d="M422 0C406 59 416 95 439 139M534 0C517 32 521 67 509 99M713 0C684 30 707 60 729 84"/>
+</g>
+<ellipse cx="442" cy="229" rx="380" ry="80" fill="url(#mist)"/>
+<g fill="url(#depth)">
+<path d="M114 302V144Q114 67 188 25Q265 70 265 145V302H240V146Q240 90 188 52Q139 90 139 146V302Z"/>
+<path d="M669 301V151Q669 80 736 39Q806 81 806 151V301H781V151Q781 101 736 65Q694 101 694 151V301Z"/>
+<path d="M97 293H153V306H97ZM227 293H278V306H227ZM653 292H708V307H653ZM769 292H821V307H769Z"/>
+</g>
+<g fill="none" stroke="#c5dade" stroke-width="1.4" opacity=".72">
+<path d="M123 284V144Q123 75 188 37Q255 76 255 144V287M677 284V151Q677 87 736 51Q797 87 797 151V286"/>
+<path d="M142 148Q166 144 188 112Q212 144 237 148M188 55V112M696 154Q717 151 736 121Q757 151 779 154M736 68V121"/>
+<path d="M169 128Q160 94 188 79Q215 95 208 129M716 137Q712 105 736 89Q761 105 757 138"/>
+<path d="M116 186H137M117 239H138M242 172H263M242 229H263M671 196H692M784 215H804"/>
+</g>
+<g fill="#688797" opacity=".65">
+<path d="M37 310V207Q37 171 72 150Q108 171 108 207V310H96V207Q96 182 72 167Q49 182 49 207V310Z"/>
+<path d="M831 310V213Q831 178 866 157Q902 178 902 213V310H890V213Q890 188 866 173Q843 188 843 213V310Z"/>
+</g>
+<path d="M0 284Q76 266 162 280T326 281Q399 265 467 279Q565 266 642 281T800 279Q882 267 960 279V320H0Z" fill="#597685"/>
+<path d="M180 283Q328 271 442 283T672 283M269 297Q363 291 403 298M513 301Q602 291 730 299" fill="none" stroke="#c5dade" stroke-opacity=".28"/>
+<ellipse cx="483" cy="255" rx="232" ry="44" fill="url(#mist)"/>
+<g stroke="#eaf2ed" fill="none" stroke-width="1.4" opacity=".7">
+<path d="M323 286Q309 244 290 229M315 266Q331 244 341 242M316 269Q289 255 280 258M606 288Q625 254 622 230M614 272Q637 258 645 259M615 271Q605 254 597 251"/>
+</g>
+<g fill="#eaf2ed" opacity=".5">
+<path d="M307 251Q285 251 283 235Q301 233 307 251M315 265Q320 243 337 243Q336 260 315 265M315 274Q292 278 285 261Q305 257 315 274M621 252Q609 237 619 222Q630 237 621 252M617 272Q630 252 646 258Q640 275 617 272M613 271Q593 267 591 251Q609 252 613 271"/>
+</g>
+<!-- An original lantern, suspended from a curling iron stem. -->
+<circle cx="548" cy="220" r="67" fill="url(#glow)"/>
+<path d="M521 280V204Q521 185 537 187Q551 188 548 202" fill="none" stroke="#344f60" stroke-width="4"/>
+<path d="M548 201V209M537 212Q548 201 559 212L555 234Q548 240 541 234Z" fill="#344f60" stroke="#eaf2ed" stroke-width="1"/>
+<path d="M542 215Q548 211 554 215L551 231H545Z" fill="#e0eee0"/>
+<path d="M548 212V233" stroke="#7396a1" stroke-width="1.5"/>
+<!-- A hooded traveler, with an unmarked face and a flowing cloak. -->
+<ellipse cx="462" cy="283" rx="22" ry="3" fill="#344f60" opacity=".45"/>
+<path d="M455 268L454 283M465 269L470 282" stroke="#344f60" stroke-width="5" stroke-linecap="round"/>
+<path d="M449 244Q455 236 466 242Q472 258 485 272Q462 269 444 276Q451 260 449 244Z" fill="#6e8c9e" stroke="#344f60" stroke-width="1.2"/>
+<path d="M455 246Q455 265 448 272M462 249Q467 266 478 270" fill="none" stroke="#b0c4cd" stroke-width="1" opacity=".5"/>
+<path d="M449 242Q443 225 458 214Q474 221 471 239L466 245Z" fill="#c3d3d7"/>
+<path d="M456 227Q465 224 468 234L466 241L457 238Z" fill="#23394c"/>
+<path d="M449 244Q436 251 427 244Q435 257 453 250" fill="#8da8b7"/>
+<g fill="#344f60">
+<path d="M0 0H98Q64 30 61 75Q39 121 55 164Q27 204 43 245Q47 285 10 320H0Z"/>
+<path d="M960 0H888Q920 32 904 78Q936 113 917 163Q944 207 925 249Q918 284 952 320H960Z"/>
+<path d="M0 319V286Q41 255 68 267Q102 277 131 319ZM960 319V281Q917 257 884 278Q853 286 827 319Z"/>
+</g>
+<g fill="none" stroke="#344f60" stroke-width="3">
+<path d="M25 291Q69 210 62 172M66 285Q83 230 107 219M935 290Q892 220 902 175M891 291Q883 246 853 225M32 36Q109 10 159 25M926 29Q865 8 819 28"/>
+</g>
+<g fill="#344f60">
+<path d="M60 205Q29 188 42 160Q66 178 60 205M57 224Q82 187 102 197Q98 222 57 224M75 263Q75 230 101 229Q108 250 75 263M901 209Q885 180 905 163Q922 190 901 209M907 233Q872 219 870 197Q899 202 907 233M885 269Q857 263 849 239Q876 239 885 269M82 20Q103 21 116 43Q91 45 82 20M874 17Q855 26 845 45Q870 43 874 17"/>
+</g>
+<g fill="none" stroke="#eaf2ed" stroke-width=".8" opacity=".45">
+<path d="M32 68V32H405M555 32H928V68M32 252V288H104M856 288H928V252"/>
+<path d="M403 32Q432 32 443 23Q430 42 403 32M557 32Q528 32 517 23Q530 42 557 32M446 32H466M494 32H514M480 25L486 32L480 39L474 32Z"/>
+</g>
+<circle cx="92" cy="103" r="1.5" fill="#eaf2ed" opacity="0.45"/>
+<circle cx="283" cy="63" r="1" fill="#eaf2ed" opacity="0.5"/>
+<circle cx="321" cy="190" r="1.2" fill="#eaf2ed" opacity="0.35"/>
+<circle cx="386" cy="124" r="1.5" fill="#eaf2ed" opacity="0.5"/>
+<circle cx="421" cy="72" r="1" fill="#eaf2ed" opacity="0.35"/>
+<circle cx="473" cy="169" r="1.1" fill="#eaf2ed" opacity="0.65"/>
+<circle cx="496" cy="203" r="1.5" fill="#eaf2ed" opacity="0.55"/>
+<circle cx="531" cy="109" r="1" fill="#eaf2ed" opacity="0.35"/>
+<circle cx="582" cy="172" r="1.4" fill="#eaf2ed" opacity="0.55"/>
+<circle cx="650" cy="72" r="1.1" fill="#eaf2ed" opacity="0.5"/>
+<circle cx="713" cy="194" r="1" fill="#eaf2ed" opacity="0.45"/>
+<circle cx="812" cy="90" r="1.5" fill="#eaf2ed" opacity="0.4"/>
+<circle cx="846" cy="242" r="1" fill="#eaf2ed" opacity="0.3"/>
+<circle cx="364" cy="249" r="1.3" fill="#eaf2ed" opacity="0.45"/>
+<circle cx="398" cy="209" r="0.8" fill="#eaf2ed" opacity="0.7"/>
 </svg>

@@ -1,21 +1,37 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-  <img src="assets/banner-light.svg" alt="An original pixel-art RPG landscape: a traveler, a lakeside cabin and mountains, ready for a little adventure." width="960">
+  <img src="assets/banner-light.svg" alt="Original fantasy illustration of a cloaked traveler beneath ancient arches, surrounded by silver foliage, mist and a glowing lantern." width="960">
 </picture>
 
-# Ahoy, I'm Christian 👋
+<h1 align="center">Ahoy, I'm Christian</h1>
 
-**Tech Lead. Game maker after hours. Anime fan.**
+<p align="center">Tech Lead. Game maker after hours. Anime fan.</p>
 
-### Currently building
+<br>
 
-An open-world 2D MMORPG with turn-based tactical battles.
+<h3 align="center">Currently building</h3>
 
-### Tech I work with
+<p align="center">
+  An open-world 2D MMORPG<br>
+  with turn-based tactical battles.
+</p>
 
-- **Backend:** Java, Spring, Python, Go
-- **Systems:** C, C++
-- **Data:** PL/SQL
-- **Games:** Godot
-- **Web:** Angular
+<br>
+
+<h3 align="center">Tech I work with</h3>
+
+<p align="center">
+  <strong>Backend</strong><br>
+  Java · Spring · Python · Go
+</p>
+
+<p align="center">
+  <strong>Systems &amp; data</strong><br>
+  C · C++ · PL/SQL
+</p>
+
+<p align="center">
+  <strong>Games &amp; web</strong><br>
+  Godot · Angular
+</p>
